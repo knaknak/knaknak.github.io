@@ -8,8 +8,9 @@ html {
 body {
 	margin: 0;
 	padding: 1em;
-	background: #cdd url(./bg.png);
-	color: #000;
+	/*background: #cdd url(./bg.png); */
+	color: #2B3613;
+	background: #DBE6C3;
 }
 
 /* headings */
@@ -35,9 +36,9 @@ h1:first-letter {
 
 
 h2 {
-	color: #fff;
-	background: #699;
-	border: 2px solid #366;
+	color: #DBE6C3;
+	background: #991910;
+	/* border: 2px solid #2B3613; */
 	width: 99%;
 	padding: 0.2em;
 	font-style: normal;
@@ -46,24 +47,24 @@ h2 {
 }
 
 h3 {
-	border-width: 0 0 6px;
+        border-width: 0 0 0 8px;
 	border-style: double;
-	border-color: #366;
+	border-color: #991910;
 	width: 99%;
 	padding: 0.2em;
-	background: #cee;
+	background: #B4BF99;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 140%;
 }
 
 h4 {
-        border-width: 0 0 2px 2px;
-	border-style: dotted;
-	border-color: #8AA;
+        border-width: 0 0 0 4px;
+	border-style: solid;
+	border-color: #991910;
 	padding: 0em 0.4em;
 	width: 98%;
-	background: ;
+	background: #B4BF99;
 	font-weight: bold;
 	font-size: 80%;
 	text-align: left;

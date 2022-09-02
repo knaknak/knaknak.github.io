@@ -11,7 +11,7 @@ body {
 	margin: 0;
 	padding: 1em;
 	/*background: #cdd url(./bg.png); */
-	color: #2B3613;
+	color: #5F4F4F;
 	background: #DBE6C3;
 }
 
@@ -38,8 +38,8 @@ h1:first-letter {
 
 
 h2 {
-	color: #DBE6C3;
-	background: #991910;
+	color: #2B3613;
+	background: #9F9D39;
 	/* border: 2px solid #2B3613; */
 	width: 99%;
 	padding: 0.2em;

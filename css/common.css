@@ -62,10 +62,10 @@ h3 {
 
 h4 {
         border-width: 0 0 2px 0;
-	border-style: solid;
+	border-style: dotted;
 	border-color: #B4BF99; /* #991910; */
 	padding: 0em 0.4em;
-	width: 75%;
+	width: 40%;
 	background: #DBE6C3; /* #B4BF99; */
 	font-weight: bold;
 	font-size: 90%;
@@ -74,7 +74,7 @@ h4 {
 
 h5 {
 	border-width: 0 0 1px;
-	border-style: solid;
+	border-style: dotted;
 	border-color: #366;
 	width: 100%;
 	font-size: 107%;
@@ -196,11 +196,11 @@ em {
 strong {
 	font-style: normal;
 	font-weight: bold;
-	color: #c00;
-	background: #ffd;
+	color: #A10833;
+	/* background: #ffd;
 	border-width: 0 0 3px;
 	border-style: double;
-	border-color: #c00;
+	border-color: #c00; */
 }
 
 em em em.more {
@@ -321,5 +321,5 @@ address img {
 hr {
 	height: 0px;
 	border: 0px;
-	border-top: 2px dotted #366;
+	border-top: 2px solid #B4BF99;
 }

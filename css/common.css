@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-/* https://www.palettable.io/DBE6C3-B4BF99-CC99A4-FFF798-991910 */
+/* https://www.palettable.io/DBE6C3-B4BF99-FFF798-9F9D39-5F4F4F */
 
 html {
 	margin: 0;
@@ -38,7 +38,7 @@ h1:first-letter {
 
 
 h2 {
-	color: #2B3613;
+	color: #DBE6D3;
 	background: #9F9D39;
 	/* border: 2px solid #2B3613; */
 	width: 99%;

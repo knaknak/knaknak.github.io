@@ -61,14 +61,14 @@ h3 {
 }
 
 h4 {
-        border-width: 0 0 0 4px;
+        border-width: 0 0 2px 0;
 	border-style: solid;
-	border-color: #991910;
+	border-color: #B4BF99; /* #991910; */
 	padding: 0em 0.4em;
 	width: 98%;
-	background: #B4BF99;
+	background: #DBE6C3; /* #B4BF99; */
 	font-weight: bold;
-	font-size: 80%;
+	font-size: 90%;
 	text-align: left;
 }
 

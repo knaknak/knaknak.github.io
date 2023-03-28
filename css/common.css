@@ -58,6 +58,7 @@ h3 {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 140%;
+	vertical-align: middle;
 }
 
 h4 {
@@ -322,4 +323,14 @@ hr {
 	height: 0px;
 	border: 0px;
 	border-top: 2px solid #B4BF99;
+}
+
+
+.subject {
+    text-align: left;
+    float: left;
+}
+
+.subsubject {
+    text-align: right;
 }

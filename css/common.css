@@ -328,9 +328,11 @@ hr {
 
 .subject {
     text-align: left;
-    float: left;
 }
 
 .subsubject {
+    font-size: 60%;
+    vertical-align: bottom;
     text-align: right;
+    float: right;
 }
